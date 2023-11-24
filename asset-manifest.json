@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dariojim01/react-course/static/css/main.b819fe51.css",
+    "main.js": "/dariojim01/react-course/static/js/main.a356c108.js",
+    "static/js/787.28cb0dcd.chunk.js": "/dariojim01/react-course/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/dariojim01/react-course/index.html",
+    "main.b819fe51.css.map": "/dariojim01/react-course/static/css/main.b819fe51.css.map",
+    "main.a356c108.js.map": "/dariojim01/react-course/static/js/main.a356c108.js.map",
+    "787.28cb0dcd.chunk.js.map": "/dariojim01/react-course/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b819fe51.css",
+    "static/js/main.a356c108.js"
+  ]
+}
